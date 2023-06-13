@@ -1,0 +1,6 @@
+{
+  "uuid": "push-to-talk@systemd11",
+  "name": "Push to Talk",
+  "description": "Enable the microphone when the ^ key is pressed and disable it when released.",
+  "shell-version": ["3.38", "40", "41", "42", "43", "44", "45", "46", "47", "48", "49", "50"]
+}
