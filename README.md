@@ -4,3 +4,7 @@ I will be working on it soon.
 
 Only works with Pipewire!
 Press the "^" Key to enable or disable your microphone.
+
+# To Do
+- [ ] Use ECMAScript Modules for GNOME 45+
+      
