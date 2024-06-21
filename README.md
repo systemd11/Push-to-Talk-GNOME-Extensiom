@@ -1,6 +1,6 @@
 # Push-to-Talk-GNOME-Extension WIP!
-This ism
-## README is a WIP Project!
+This is a WIP Project!
+I will be working on it soon.
 
 Only works with Pipewire!
 Press the "^" Key to enable or disable your microphone.
